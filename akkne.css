@@ -1,0 +1,142 @@
+body{
+   margin:0;
+
+}
+
+header{
+   background-color:#48D1CC ;
+   color:#fff;
+   height:70px;
+    text-decoration:none;
+    margin:0px 0;
+
+}
+
+        /*ーーーーーーーーヘッダーーーーーーーー*/
+
+header h1{
+    float:left;
+    margin:  5px 15px;
+    font-size:40px;
+    letter-spacing: 2px;
+   
+}
+
+header a{
+   color:white;
+   padding:10px 20px;
+   font-size:20px;
+   text-decoration:none;
+   letter-spacing: 1px;
+   background-color:#48D1CC ;
+   
+}
+.header-btn{
+     padding:0 20px;
+      float:right;
+     margin:20px 0px;
+    text-decoration:none;
+    
+}
+
+header a:hover{
+   background-color:#40E0D0;
+   text-decoration: underline;
+
+}
+
+
+        /*ーーーーーーーーfor-メインーーーーーーーー*/
+.for-main{
+    text-align: left;
+}
+
+
+        /*ーーーーーーーーメインーーーーーーーー*/
+main{
+    margin: 10px; 
+
+
+
+}
+main h1{
+    border-bottom: 3px solid black;
+    margin: 10px 10px 40px 10px;
+}
+
+.main-contents{
+}
+
+.main-btn{
+    border: 1px solid black;
+    padding: 18px 20px;
+    margin: 10px;
+    font-size: 25px;
+    text-decoration:none;
+    opacity: 1;
+    border-radius: 7px;
+
+
+
+}
+.main-btn:hover{
+    opacity:0.7;
+    text-decoration: underline;
+
+}
+
+.main-akane{
+    background-color: #B7282E;
+    color:white;
+}
+
+.main-inui{
+    background:#9D3757;
+    color:white;
+
+}
+
+
+.aft-main{
+    margin: 60px 20px 0 20px;
+
+}
+.add-menber{
+    font-size: 25px;
+    border: 1px solid black;
+    padding: 18px 20px;
+    float: right;
+    background-color:#858585 ;
+    color:white;
+    text-decoration:none;
+    opacity: 1;
+    border-radius: 7px;
+    
+}
+.add-menber:hover{
+    opacity:0.7;
+    text-decoration: underline;    
+}
+
+
+
+
+
+
+
+
+
+
+        /*ーーーーーーーーー使い方ページーーーーーーーー*/
+        
+
+.usemain,.yushi,.form{
+    margin: 20px;
+}
+
+
+
+
+
+
+
